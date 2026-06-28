@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "gps-rx") (type "KiCad") (uri "${KIPRJMOD}/gps-rx.kicad_sym") (options "") (descr ""))
+	(lib (name "gps-rx-lib") (type "KiCad") (uri "${KIPRJMOD}/gps-rx-lib.kicad_sym") (options "") (descr ""))
+)

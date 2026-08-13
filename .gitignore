@@ -1,2 +1,6 @@
 /hardware/gps-rx-backups
-/hardware/.history
+/hardware/.history/*
+/hardware/~*
+/hardware/fabrication-toolkit-options.json
+/hardware/gps-rx.rounds-tracks-config
+/harwdare/sym-lib-rable
